@@ -6,7 +6,7 @@ email: StandardBLT@Outlook.com
 description: "Every failure is leading towards success."
 keyword: "StandardBLT,"
 url: "http://StandardBLT.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/StandardBLT/StandardBLT.github.io.git" # you code repository
 
 # Sidebar settings
@@ -65,8 +65,8 @@ gitalk:
   clientID: 8f076f05b3c004fb0e15                            #生成的clientID
   clientSecret: dbb35c23dc5323a242c1c7ccc286c3ab1fd2c016    #生成的clientSecret
   repo: Standard.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  owner: StandardBLT    #github用户名
+  admin: StandardBLT,JoeMichael,Marik-MaLike,Strlantian
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
